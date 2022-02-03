@@ -9,6 +9,8 @@ If you simply want to play with our demo, please try this link: http://scenesegm
 
 [You can also use this colab notebook playground here](https://colab.research.google.com/github/CSAILVision/semantic-segmentation-pytorch/blob/master/notebooks/DemoSegmenter.ipynb) to tinker with the code for segmenting an image.
 
+You can reach the dataset [here]https://drive.google.com/drive/folders/1XjoWvHm2I8Y4RV_i9gEd93ZP-KryjJlm. 
+
 All pretrained models can be found at:
 http://sceneparsing.csail.mit.edu/model/pytorch
 
